@@ -1,10 +1,8 @@
-exports.constants = {
+exports.connn = {
 
-    VALIDATION_ERROR:400,
-    UNAUTHORIZED:401,
-    BAD_REQUEST:402,
-    FORBIDDEN:403,
-    NOT_FOUND:404,
-
-    INTERNAL_SERVER_ERROR:500,
-}
+    VALIDATION_ERROR : 400,
+    UNAUTHORIZED : 401,
+    FORBIDDEN : 403,
+    NOT_FOUND : 404,
+    SERVER_ERROR : 500,
+};
